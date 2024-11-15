@@ -4,7 +4,14 @@ table, td, th {
 
 td, th{
     padding: 6px;
+    border-radius: 0px;
+    text-align: center;
 
+}
+
+table{
+    background-color: azure;
+    border-spacing: 0cap;
 }
 div{
     background-color: aqua;
